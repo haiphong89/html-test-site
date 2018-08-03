@@ -1,0 +1,23 @@
+body {
+font-size: 16px;
+background: gray;
+}
+#s1 {
+clear: both;
+color: white;
+background: green;
+}
+#s2 {
+clear: both;
+background: blue;
+color: white;
+}
+#s3 {
+clear: both;
+background: red;
+color: white;
+}
+#footer {
+    position: absolute;
+    bottom: 1;
+}
